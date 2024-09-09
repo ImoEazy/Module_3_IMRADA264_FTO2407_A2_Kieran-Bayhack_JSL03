@@ -11,11 +11,3 @@ Declarative Programming:
 - Shows you what you want to get from the code
 
 
-After getting the basics of understanding of both the languages now let us do discuss the key differences between these two different types of programming
-
-JS2--
-What’s Improved:
-Cooking Times: Added specific cooking times for different levels of doneness.
-Time Calculation: Calculated the total cooking time based on the number of sides.
-Validation: Added a check for invalid doneness levels.
-Output: Improved the logging of the cooking process for better clarity.
